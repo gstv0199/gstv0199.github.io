@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255,240,240);
+}
+
+h6 {
+	color: gray;
+}
+
+section {
+	background-color: white;
+}
+
+aside {
+	float: left;
+	padding: 20px;
+	width: 300px;
+	height: 450px;
+}
+
+article {
+	background-color: white;
+	float: left;
+	padding: 20px;
+	width: 300px;
+	height: 450px;
+}
